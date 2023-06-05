@@ -1,0 +1,4 @@
+1] Why Java is not 100% Object-oriented?
+    ANS: Becase of Primitive data types namely: boolean , byte, char, int, float, double, long, short
+    To make them OO we have wrapper classes which actually "wrap" the Primitive data type inot an Object of that class.
+    
